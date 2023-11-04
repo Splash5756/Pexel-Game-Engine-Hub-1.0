@@ -1,0 +1,11 @@
+Package Contents
+  > Pexel Game Engine Preview 1.0
+      - 2D game support
+      - Pexel Script support
+
+  > PGE Hub Updater GUI (in preview)
+  > PGE Hub Updater CUI (in preview)
+  > PGE Hub 1.0
+
+Package size: Xmb
+Upload date: November 4, 2023
